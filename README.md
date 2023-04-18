@@ -1,1 +1,1 @@
-# -ind22.UID00500-Yash-Naithani.React-jtg-induction-ind22.UID00500-Yash-Naithani.Items
+# ind22.UID00500-Yash-Naithani.Items
