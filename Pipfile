@@ -6,6 +6,13 @@ name = "pypi"
 [packages]
 flask = "*"
 pydantic = "*"
+flask-restful = "*"
+stripe = "*"
+firebase-admin = "*"
+flask-cors = "*"
+python-dotenv = "*"
+"google.cloud" = "*"
+google-cloud-tasks = "*"
 
 [dev-packages]
 
